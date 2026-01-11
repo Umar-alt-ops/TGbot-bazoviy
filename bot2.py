@@ -52,3 +52,4 @@ try:
     asyncio.run(main())
 except KeyboardInterrupt:
     print("выход")
+    
